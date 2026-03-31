@@ -10,6 +10,5 @@ Based on the popular teleplay **In the Name of People**, we design a game throug
 ## Part3: AIGC reminder
 Amazing! This part proves my contribution for the whole team. I just designed a lightweight reminder according to the targeted peoples, based on their ages, experience, characters and so on, which truly achieve personalization. What's more, the txts are all composed by DeepSeek(slightly polished by me), so we called it AIGC reminder. Because the program is designed by myself, so I straightly add my files, maybe it's quite small.
 
-I'm firmly convinced that you will be keen on the project, now provide relevant link.
-https://bhpan.buaa.edu.cn/link/AA7CE7CA36D6B349FC9D56907216A7313A
+I'm firmly convinced that you will be keen on the project, now provide relevant link: https://bhpan.buaa.edu.cn/link/AA7CE7CA36D6B349FC9D56907216A7313A.
 The keycode is "mingcheng98", just my name of my E-mail.
